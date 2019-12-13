@@ -1,7 +1,7 @@
 
 # About
 
-此项目是 vue + element-ui 构建的后台管理系统，所有的数据都是从YApi(http://yapi.demo.qunar.com)服务器实时获取的MOCK数据，具有真实的注册、登陆、管理数据、权限验证等功能。
+此项目是 vue + element-ui 构建的后台管理系统，所有的数据都是从[YApi](http://yapi.demo.qunar.com)服务器实时获取的MOCK数据，具有真实的注册、登陆、管理数据、权限验证等功能。
 
 
 # 说明
