@@ -1,0 +1,16 @@
+/**
+ * 定义类型
+ */
+
+//共用类型
+export const COM={
+    'START_LOADING':'COM.START_LOADING',
+    'END_LOADING':'COM.END_LOADING',
+    'SET_USER_INFO':'COM.SET_USER_INFO',
+    'REMOVE_USER':'COM.REMOVE_USER',
+    'CONTENT_FAILURE':'COM.CONTENT_FAILURE',
+    'GET_MENU_LIST':'COM.GET_MENU_LIST',//获取左菜单
+    "SET_URL_PREFIX":"SET_URL_PREFIX",//设置页面跳转前缀
+    "GET_USER_NAME":"GET_USER_NAME",//获取用户名
+    "TOKEN_STATUS":"TOKEN_STATUS",//设置token过期弹出框的状态
+  }
